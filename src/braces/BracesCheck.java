@@ -9,7 +9,7 @@ public class BracesCheck {
 
     public static void main(String[] args) {
 
-        String tamplate = "{}[]()(";
+        String tamplate = "{}[]()";
         System.out.println(checkBraces(tamplate));
     }
 
